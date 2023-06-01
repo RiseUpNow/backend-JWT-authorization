@@ -5,12 +5,12 @@
 Аутентификация/Авторизация с JWT токенами.   
 В отдельной папке Server разместил файлы для сервера. В ней вы найдете файл .env, там основные настройки   
 ### Порядок действий
-1. Запустите в папке Server терминал
-1.1 npm install
-1.2 npm run dev чтобы запустить сервер
-2. Запустите еще один терминал в корневом каталоге
-2.1 npm install
-2.2 npm run start чтобы запустить UI
+1. Запустите в папке Server терминал   
+1.1 npm install   
+1.2 npm run dev чтобы запустить сервер   
+2. Запустите еще один терминал в корневом каталоге   
+2.1 npm install   
+2.2 npm run start чтобы запустить UI   
   
 Credentials for authorization: email: alfa@yandex.ru password: 1111   
 Technology stack: MERN, Redux, Axios   
